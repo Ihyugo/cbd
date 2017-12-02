@@ -6,7 +6,6 @@ for i in 0..100000000 do
 		total += 1/sum
 	else
 		total -= 1/sum
-
 	end
 end
 puts(4*total)
